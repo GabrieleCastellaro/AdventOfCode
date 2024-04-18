@@ -11,7 +11,8 @@ public static class Program
 
 
         //Day2aRetry.Day2aRetrySol();
-        Day2b.Day2bSol();
+        //Day2b.Day2bSol();
+        Day3a.Day3asol();
     }
 
     
